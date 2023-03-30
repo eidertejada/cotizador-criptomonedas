@@ -4,6 +4,7 @@ const monedas = [
   { id: "EUR", nombre: "Euro" },
   { id: "GBP", nombre: "Libra Esterlina" },
   { id: "COP", nombre: "Peso Colombiano" },
+  { id: "PEN", nombre: "Sol Peruano" },
 ];
 
 export { monedas };
